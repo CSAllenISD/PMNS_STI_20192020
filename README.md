@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Digital Portfolio
+## Day 1
+### Hula Hoops
+- We used hula-hoops to delineate two areas of interest outdoors (we'll call these areas "Area 50" and "Area 51")
 
-You can use the [editor on GitHub](https://github.com/CSAllenISD/PMNS_STI_20192020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<figure>
+    <img src="Area%2050.jpg" width="300"/>
+    <figcaption>Area 50</figcaption>
+</figure>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<figure>
+    <img src="Area%2051.jpg" width="300"/>
+    <figcaption>Area 51</figcaption>
+</figure>
+ 
+### Mysterious Tracks
+- We used clay to capture a print of a mysterious track and are now waiting for the plaster to dry.  What could it be?
+<figure>
+    <img src="Mysterious Footprint.jpg" width="300"/>
+    <figcaption>Mysterious Footprint</figcaption>
+</figure>
 
-### Markdown
+### Biome in a Cube
+- We created our own biomes in a small plastic cube (jar).  Along with gravel, activated charcoal, and moss I placed onion seeds and radish seeds inside.  I wonder what will grow?
+<figure>
+    <img src="Biome in a Plastic Cube.jpg" width="300"/>
+    <figcaption>Biome in a Cube</figcaption>
+</figure>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CSAllenISD/PMNS_STI_20192020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
