@@ -39,3 +39,13 @@
 
 ### iNaturalist
 - A very cool application for documenting and identifying nature
+
+# Species by Major Groups
+- https://www.iucnredlist.org/resources/summary-statistics
+- There are 11,126 species of birds
+- There are 10,793 species of reptiles
+- There are over 1,000,000 species of insects!!!
+- There are 102,248 species of arachnids
+- There are 2,175 species of corals
+- There are 80,325 species of mollusks
+- There are 268,000 species of angiosperms (flowering plants)
