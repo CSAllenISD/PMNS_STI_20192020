@@ -51,6 +51,7 @@
 - There are 268,000 species of angiosperms (flowering plants)
 
 ### Scat Studies
-- Perhaps a coyote (based on seeing seeds, insects, and animal parts in the scat, assumed omnivore, fairly large)
+- Perhaps a coyote (based on seeing seeds, insects, trash, and animal parts in the scat, assumed omnivore, fairly large)
 - Tracks match our hypothesis
 - Skull also matches
+- It was a coyote!
