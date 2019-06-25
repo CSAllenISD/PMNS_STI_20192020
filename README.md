@@ -55,3 +55,18 @@
 - Tracks match our hypothesis
 - Skull also matches
 - It was a coyote!
+
+### Ask Nature (asknature.org)
+- Biomimicry
+- Inspiration from nature to solve real-world problems
+
+### Involve Me and I Learn
+- "PBL" - Project Based Learning
+- Students develop their own questions and solve them in their own way
+- Concerns: Takes a lot of time, sometimes can become derailed, external factors (meeting curriculum requirements)
+- Benefits:  Students are internally motivated
+- It helps to assign jobs to the group
+- Sometimes it's appropriate to have one rubric per job
+- Average group grade and individual grade
+- Students can be scored by other students
+- It helps to have a good structure and clear expectations (PBLworks.org)
