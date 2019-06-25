@@ -60,13 +60,25 @@
 - Biomimicry
 - Inspiration from nature to solve real-world problems
 
-### Involve Me and I Learn
+### Involve Me and I Learn - PBL's
 - "PBL" - Project Based Learning
 - Students develop their own questions and solve them in their own way
 - Concerns: Takes a lot of time, sometimes can become derailed, external factors (meeting curriculum requirements)
-- Benefits:  Students are internally motivated
+- Benefits:  Students are internally motivated, opportunities for collaboration, might involve experts from the community
 - It helps to assign jobs to the group
 - Sometimes it's appropriate to have one rubric per job
 - Average group grade and individual grade
 - Students can be scored by other students
 - It helps to have a good structure and clear expectations (PBLworks.org)
+
+### Engineering for the Environment - Group Project
+- Create a team of environmental engineers who will work together to solve an environmental issue of their choosing
+- Identify an ecological/environmental problem to research and problem solve using the Engineering Design Process
+- Present your prototype at a Shark Tank Town Hall
+- Goals: Increase awareness of environmental issues, identify causes and impacts of environmental issues, investigate how science and technology can be applied to solve real world problems
+- Examples of ecological/environmental issues:
+-- Decline of amphibians, plastic island, bees disappearing, lightning bugs becoming extinct
+-- https://theoceancleanup.com/great-pacific-garbage-patch/
+-- Perhaps consider a local solution which prevents the trash from reaching the ocean in the first place
+
+
