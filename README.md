@@ -30,3 +30,12 @@
     <figcaption>Biome in a Cube</figcaption>
 </figure>
 
+## Day 2
+### Amphibians
+- Amphibians.  And more Amphibians.  There are over 8,013 species of Amphibians.
+- A frogs toungue is attached at the front rather than the back so it can "flip out".
+- Amphibians are "ectothermic" - cold-blooded
+- Goliath frogs are very large!
+
+### iNaturalist
+- A very cool application for documenting and identifying nature
