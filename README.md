@@ -40,7 +40,7 @@
 ### iNaturalist
 - A very cool application for documenting and identifying nature
 
-# Species by Major Groups
+### Species by Major Groups
 - https://www.iucnredlist.org/resources/summary-statistics
 - There are 11,126 species of birds
 - There are 10,793 species of reptiles
