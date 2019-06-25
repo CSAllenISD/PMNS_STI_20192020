@@ -49,3 +49,8 @@
 - There are 2,175 species of corals
 - There are 80,325 species of mollusks
 - There are 268,000 species of angiosperms (flowering plants)
+
+### Scat Studies
+- Perhaps a coyote (based on seeing seeds, insects, and animal parts in the scat, assumed omnivore, fairly large)
+- Tracks match our hypothesis
+- Skull also matches
