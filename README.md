@@ -81,4 +81,17 @@
 -- https://theoceancleanup.com/great-pacific-garbage-patch/
 -- Perhaps consider a local solution which prevents the trash from reaching the ocean in the first place
 
+## Day 3
+### Health of an Ecosystem
+- 40% of all insect species are in decline
+- Bugs are pollinators
+- They serve as an important food source
+- Populations can be surveyed by netting or pitfall traps or "vacuuming" with an aspirator (Pooter)
+- We built pooters out of two tubes, seven rubber bands, and a piece of felt
+- We went outside and caught insects in a net and then used the aspirator to trap them in a small plastic container for further observation
+- Insects are masters of survival.  
+- Cages can be build very cheaply using tupperware and roundvent.com vents.
+- Cockroaches "breathe" through spiracles.  With their tarsal pads they're able to climb glass.  They can eat old vegetables or dog food.  
+- Striped walking sticks are a great example of camouflage.  They're herbivores.
+
 
