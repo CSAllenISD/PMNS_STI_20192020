@@ -93,5 +93,9 @@
 - Cages can be build very cheaply using tupperware and roundvent.com vents.
 - Cockroaches "breathe" through spiracles.  With their tarsal pads they're able to climb glass.  They can eat old vegetables or dog food.  
 - Striped walking sticks are a great example of camouflage.  They're herbivores.
-
+- We examined a centipede which may be a Scolopendra.
+- Dung beetles roll dung both to lay eggs and as a food source.  
+- Wheel bugs have a "wheel" on their back.  They are in the assassin bug family.  They have a long probuscus that they can use to pierce other insects.  They have a saliva that they can use to debilitate their prey.
+- Spiders don't have muscles but rely on their circulatory system to move.  
+- Millipedes have two legs per segments whereas centipedes ahve one pair per segment.
 
