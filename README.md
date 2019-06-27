@@ -105,3 +105,9 @@
 - The lack of species which are pollution sensitive is a warning sign
 - It's important to sample the water on a regular basis to check for changes
 - We observed some of the species in the pond which currently appears healthy
+### Special Guest from Texas Turtles
+- Displayed a snapping turtle and alligator turtle
+- Discussed problems with poaching
+- Fish hooks kill many turtles
+- Some turtles are endangered
+### Final Project Presentation
