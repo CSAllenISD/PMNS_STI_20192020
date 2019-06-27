@@ -111,3 +111,7 @@
 - Fish hooks kill many turtles
 - Some turtles are endangered
 ### Final Project Presentation
+- Nature Deficit Disorder - children don't spend much time outdoors anymore; in part due to concerns about health and safety and overscheduling.  This can lead to a sedentary lifestyle and vitamin D deficiency.  It also adversely affects social skills.  It's helpful to create outdoor opportunities for play, too much space is unused.  "Green Schoolyards" can provide ideas about more user-friendly space.
+- Invasion of Plastic - Why is recycling plastic so important.  Single-use plastics account for 40%-50% of plastics that are produced.  18 billion pounds are dumped into our oceans each year.  It takes 450 - 1,000 years for a single bottle to decompose.  Single-use plastics break down and become mircoplastics.  Solutions include multi-use bottle filers, skimming the top of oceans.  Unfortunately, not all plastics are recyclable.  
+- Ocean Pollution - The Ocean Cleanup Project is having some problems with their current design. It will take thousands of years to clean the ocean effectively.  Natural forces move a system that capture trash which can then be gathered afterwards.  One idea is to make a Butt Heart shape to collect and trap the trash inside.  Invasive species can also travel across oceans via the garbage patches.  
+- 
