@@ -99,3 +99,9 @@
 - Spiders don't have muscles but rely on their circulatory system to move.  
 - Millipedes have two legs per segments whereas centipedes ahve one pair per segment.
 
+## Day 4
+### Aquatic Observations
+- Diversity of species is an indicator for relative health of environment
+- The lack of species which are pollution sensitive is a warning sign
+- It's important to sample the water on a regular basis to check for changes
+- We observed some of the species in the pond which currently appears healthy
