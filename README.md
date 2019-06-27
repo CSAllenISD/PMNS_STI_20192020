@@ -118,3 +118,4 @@
 - Wave of the Future.  Energy is in higher demand than ever before.  Alternative sources are a better solution than fossil fuels.  Renewable energy sources inlcude wind, solar, and and hydro.  Another alternative is wave power.  A buoy would pull a rope connected to a generator.
 - Econets - Biodegradable Fishing Lines and Nets for a sustainable tomorrow.  DIY biodegradable plastic from canolia oil, water, corn starch, glycerin.
 - Buzz - World without bees? 1/3 of our produce and plants are pollinated by bees.  Bee populations are declining due to pesticides, disease, parasites, and stress from being trucked.  In 75 years we've lost 50% of the bee hives in the US.  To help, you can plant a bee garden.  There are a variety of flowers that can be planted to attract bees.  You can also build homes for bees.
+- Nature Deficit Disorder - diminished use of senses, attention difficulties.  Potential solution:  Create seed bombs.
